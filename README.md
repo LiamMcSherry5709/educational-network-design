@@ -1,4 +1,4 @@
-# educational-network-design
+# educational network design
 This project was completed as part of my HND Networking module.
 
 The project involved designing, implementing, testing,
