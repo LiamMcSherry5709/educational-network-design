@@ -1,5 +1,8 @@
 # educational-network-design
-This project was part of my networking module that I completed for my HND 
+This project was completed as part of my HND Networking module.
+
+The project involved designing, implementing, testing,
+and maintaining a LAN infrastructure for an educational institution.
 
 ## objective 
 The objective of this project wasundertaking the design and development of a network for a local education institution. I needed to analyse the specification for the educational institution and design the network accordingly. Once designed I was be responsible for testing, implementing, and maintaining the network.
