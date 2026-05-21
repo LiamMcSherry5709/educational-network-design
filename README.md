@@ -29,4 +29,4 @@ Through this project I improved my understanding of:
 - Cisco Packet Tracer
 
 ## Documentation
-<a href="https://github.com/LiamMcSherry5709/educational-network-design/blob/main/Docs">Docs</a>
+<a href="https://github.com/LiamMcSherry5709/educational-network-design/blob/main/Docs.md">Docs</a>
