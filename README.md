@@ -16,3 +16,5 @@ Through this project I improved my understanding of:
 
 ## Tools used 
 - Cisco Packet Tracer
+
+##Steps
