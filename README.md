@@ -17,5 +17,5 @@ Through this project I improved my understanding of:
 ## Tools used 
 - Cisco Packet Tracer
 
-##Steps
+## Steps
 <a href="https://github.com/LiamMcSherry5709/educational-network-design/blob/main/Steps">Steps</a>
