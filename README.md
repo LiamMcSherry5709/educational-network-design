@@ -7,6 +7,14 @@ and maintaining a LAN infrastructure for an educational institution.
 ## objective 
 The objective of this project wasundertaking the design and development of a network for a local education institution. I needed to analyse the specification for the educational institution and design the network accordingly. Once designed I was be responsible for testing, implementing, and maintaining the network.
 
+The project included:
+- Network planning
+- Infrastructure design
+- Device configuration
+- Connectivity testing
+- Security considerations
+- Maintenance planning
+
 ## skills learned
 Through this project I improved my understanding of:
 
