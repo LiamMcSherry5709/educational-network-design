@@ -41,5 +41,6 @@ The applications found on the network for the education institution will not be 
 
 ## Security 
 
+The network will be responsible for storing and transmitting plenty of private data. To ensure that this data remains secure precautions must be taken to minimize risk and eliminate vulnerabilities. One of these precautions is preventing access to the network devices using usernames and passwords. Only individuals with the correct identification can access the network devices, these passwords must be relatively complex and kept private so no attackers can easily identify them. To prevent user groups from accessing applications that they do not need or should not have access to, levels of access and restrictions must be put in place so that only authorised individuals can access certain applications. For example, applications that are used to manage the institution finance should only be accessible to members of staff who handle the institutions finical responsibilities. So, to insure only these staff members can access the applications passwords may be required to access it and each staff member with authorised access will be given these passwords as well as any additional login details.
 
-
+The network is split into two VLANs, these are the student lab and the staff computers. This is done to prevent students from accessing documents and data that should only be accessible to the staff.
