@@ -50,3 +50,18 @@ In this section I will show the step by step process of implementing and configu
 
 <img width="380" height="508" alt="image" src="https://github.com/user-attachments/assets/8ae409c5-166d-42d5-b61f-2d2d606466f1" />
 
+## Logical configurations
+
+**The first Picture shows the process of configuring the Static IP address, default gateway, and DNS on a PC** 
+
+- Picture 1
+
+<img width="498" height="665" alt="image" src="https://github.com/user-attachments/assets/009ebecd-aae9-4bb1-965c-8bd82c047e95" />
+
+&nbsp;
+
+**The next picture shows the process of configuring the static IP address on the router interface**
+
+- Picture 1
+<img width="507" height="677" alt="image" src="https://github.com/user-attachments/assets/a5a5be7b-c9ce-479c-8075-671da81e0b5d" />
+
