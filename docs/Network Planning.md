@@ -35,3 +35,11 @@ The Users required the network to provide:
 - Shared resources
 - Future scalability
 
+## Network Applications 
+
+The applications found on the network for the education institution will not be very complex and examples of what software will most likely be used could be Microsoft office and the software applications packaged along with it e.g. Microsoft word or excel spreadsheets, applications for VOIP or video conferencing e.g. Zoom and Skype, Applications for designing and creating e.g. Adobe photoshop and Adobe InDesign. Some of these applications such as video conferencing may be used by staff alone while students and staff may both use applications like Microsoft office.
+
+## Security 
+
+
+
