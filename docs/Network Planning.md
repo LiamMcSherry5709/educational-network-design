@@ -26,3 +26,12 @@ The network was designed to support:
 - Management users
 
 There are 235 users on the educational institution network, and these users will have different requirements depending on their position within the institution. For example, the higher managers of the educational institution will require more bandwidth for their network activities compared to the students on the network as the higher managers will be performing more activity that require higher data transmissions such as video conferencing or VoIP. 
+
+## End User requirments 
+
+The Users required the network to provide:
+- Reliable connectivity
+- Secure access control
+- Shared resources
+- Future scalability
+
