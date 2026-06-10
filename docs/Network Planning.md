@@ -14,3 +14,15 @@ This stage involved the planning of the networks infrastructure before its imple
 | Server | Provides processing services and centralised network services | £2100.00 | 1 |
 | Printers | Allows network clients to print physical copies of digital documents | £60.00 per device | 3 |
 | Wireless Access Point (WAP) | Provides wireless connectivity for devices on the network | £90.00 | 1 |
+
+
+## End Users 
+
+The network was designed to support:
+
+- Students
+- Teachers
+- Administrative staff
+- Management users
+
+There are 235 users on the educational institution network, and these users will have different requirements depending on their position within the institution. For example, the higher managers of the educational institution will require more bandwidth for their network activities compared to the students on the network as the higher managers will be performing more activity that require higher data transmissions such as video conferencing or VoIP. 
