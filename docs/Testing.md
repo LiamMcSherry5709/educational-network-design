@@ -38,6 +38,6 @@ The proceduer is as follows;
 | 12 | Test login to server domain | Enter login details | Grants login access | Granted login access | P |  |  |
 | 13 | Test printer by sending test print | Make print request | Prints paper | Printed paper | P |  |  |
 
-## Screenshots 
+## Test pictures  
 
 
