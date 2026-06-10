@@ -65,3 +65,36 @@ In this section I will show the step by step process of implementing and configu
 - Picture 1
 <img width="507" height="677" alt="image" src="https://github.com/user-attachments/assets/a5a5be7b-c9ce-479c-8075-671da81e0b5d" />
 
+&nbsp;
+
+**The next picture shows the configuration of the IP address and default gateway on the server**
+
+- Picture 1
+<img width="496" height="661" alt="image" src="https://github.com/user-attachments/assets/81c3b9dd-4365-4aa4-a47e-203460cf38f7" />
+
+&nbsp;
+
+**The next picture shows the process of creating a user group in the active directory service on the server**
+
+- Picture 1
+<img width="477" height="637" alt="image" src="https://github.com/user-attachments/assets/10318b00-2fdc-4205-b25c-aa5c23d827cc" />
+
+&nbsp;
+
+**The next picture shows the process of creating a user account in the active directiry service on the server**
+
+- Picture 1
+<img width="504" height="672" alt="image" src="https://github.com/user-attachments/assets/ef520f9a-d49a-44c8-9765-205feb5049b4" />
+
+&nbsp;
+
+**The final logical configuration picture shows the process of configuring the PC to authenticate the server domain**
+
+- Picture 1
+<img width="483" height="644" alt="image" src="https://github.com/user-attachments/assets/612f2831-3879-4273-b76f-3451135b4cef" />
+
+&nbsp;
+
+
+
+
