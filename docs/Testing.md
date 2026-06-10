@@ -37,3 +37,7 @@ The proceduer is as follows;
 | 11 | Test connectivity with printer | Ping 192.168.0.253 | 4 x replies in less than 1 sec | 4 x replies < 1 sec | P |  |  |
 | 12 | Test login to server domain | Enter login details | Grants login access | Granted login access | P |  |  |
 | 13 | Test printer by sending test print | Make print request | Prints paper | Printed paper | P |  |  |
+
+## Screenshots 
+
+
