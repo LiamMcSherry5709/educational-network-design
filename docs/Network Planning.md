@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This stage involved the planning of the networks infrastructure before its implementation, ideftify the devices that will be needed, the end users, the end user requirements, the Applications used on the newtork, Security, and Scalability.
+This stage involved the planning of the networks infrastructure before its implementation, ideftify the devices that will be needed, the end users, the end user requirements, the Applications used on the newtork, Security, Scalability, and Design.
 
 ## Devices 
 
@@ -55,4 +55,11 @@ Additional network security is provided through the use of a firewall. The firew
 the network could be built upon through adding additional communication devices such as more switches, routers and WAPs. If these devices are added it could open the potential for increasing the scalability of the network and allow for more devices to be added. Although, the increase in the number of devices will mean that the network will need more bandwidth to compensate. The extra bandwidth purchased initially may be enough to support additional users and devices but even more bandwidth will need to be purchased to account for future additions to the network.
 
 More VLANs could be created to split the different staff groups up, for example higher managers, marketing and administration, and teachers could all have their own VLANs to work on. 
+
+## Design 
+
+This design was created using Cisco Packet Tracer. The .pkt file can be found in the Packet Tracer folder.
+
+<img width="1178" height="760" alt="PKT" src="https://github.com/user-attachments/assets/b38486ed-7a79-4d4d-8dca-999b585c6c93" />
+
 
