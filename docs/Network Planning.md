@@ -49,3 +49,10 @@ The network will be responsible for storing and transmitting plenty of private d
 The network is split into two VLANs, these are the student lab and the staff computers. This is done to prevent students from accessing documents and data that should only be accessible to the staff.
 
 Additional network security is provided through the use of a firewall. The firewall monitors the network traffic, identifying and blocking access to any network packets that it thinks could be dangerous to let into the network. The firewall prevents external attackers from sending viruses and malicious software into the network.
+
+## Scalability 
+
+the network could be built upon through adding additional communication devices such as more switches, routers and WAPs. If these devices are added it could open the potential for increasing the scalability of the network and allow for more devices to be added. Although, the increase in the number of devices will mean that the network will need more bandwidth to compensate. The extra bandwidth purchased initially may be enough to support additional users and devices but even more bandwidth will need to be purchased to account for future additions to the network.
+
+More VLANs could be created to split the different staff groups up, for example higher managers, marketing and administration, and teachers could all have their own VLANs to work on. 
+
