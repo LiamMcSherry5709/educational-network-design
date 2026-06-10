@@ -1,7 +1,7 @@
 # educational network design
 This project was completed as part of my HND Networking module.
 
-The project involved designing, implementing, testing,
+The project involved a scenario where I was tasked with designing, implementing, testing,
 and maintaining a LAN infrastructure for an educational institution.
 
 ## objective 
